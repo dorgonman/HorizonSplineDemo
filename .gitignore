@@ -1,0 +1,17 @@
+/.vs
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+/*.opendb
+/.vs/config/applicationhost.config
+/*.db
+Releases
+/steamworks_build_content
+/steamworks_build_output
