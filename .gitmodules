@@ -1,0 +1,3 @@
+[submodule "Plugins/HorizonSplineExtension"]
+	path = Plugins/HorizonSplineExtension
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonSplineExtension
